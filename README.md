@@ -1,4 +1,4 @@
-# Hi there 👋
+# Olá👋 Meu nome é Tiago, sou estudante de Sistemas de Informação na EACH - USP.
 
 <!--
 **TgoSil/TgoSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
