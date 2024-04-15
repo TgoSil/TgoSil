@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Tiago Silveira</p>
+# <p style="text-align: right;">Tiago Silveira</p>
 # Olá👋 Meu nome é Tiago, sou estudante de Sistemas de Informação na EACH - USP.
 
 <!--
