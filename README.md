@@ -1,6 +1,6 @@
-# **Tiago Silveira**
+# Tiago Silveira
 ## Olá👋 Meu nome é Tiago, sou estudante de Sistemas de Informação na EACH - USP. 😄
-Como eu não tenho nenhum link em específico pra compartilhar, fique com esse vídeo: [<img src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE-icon.svg" alt="Get it on youtube" height="32" />](https://www.youtube.com/watch?v=X5O12KJ70i0&pp=ygUWcmF5bW9uZCB0aGUgY2F0IHRpa3Rvaw%3D%3D)
+Como eu não tenho nenhum link em específico pra compartilhar, fique com um **Top 5 cat**: [link](https://www.youtube.com/watch?v=X5O12KJ70i0&pp=ygUWcmF5bW9uZCB0aGUgY2F0IHRpa3Rvaw%3D%3D)
 😼
 
 <!--
