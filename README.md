@@ -1,7 +1,5 @@
 # Tiago Silveira
-## Olá👋 Meu nome é Tiago, sou estudante de Sistemas de Informação na EACH - USP. 😄
-Como eu não tenho nenhum link em específico pra compartilhar, fique com um **top 5 cat**: [link](https://www.youtube.com/watch?v=X5O12KJ70i0&pp=ygUWcmF5bW9uZCB0aGUgY2F0IHRpa3Rvaw%3D%3D)
-😼
+## Olá👋 Meu nome é Tiago, sou estudante de Sistemas de Informação na EACH - USP.
 
 
 
